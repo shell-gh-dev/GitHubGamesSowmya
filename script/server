@@ -1,5 +1,5 @@
 #!/usr/bin/env bash
-#
+###
 # Start the application
 
 # Exit if docker-compose is not in PATH
