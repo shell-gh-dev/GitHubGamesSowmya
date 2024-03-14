@@ -1,4 +1,4 @@
-## Welcome to GitHub Games Sowmyashree
+## Welcome to GitHub Games SowmyaMV
 
 A project based learning activity for people who are getting started with Git and GitHub.
 
