@@ -6,7 +6,6 @@
 if ! command -v docker-compose &>/dev/null; then
   echo "Error! Missing dependency: docker-compose. Please install and try again."
   exit 1
-fi
 
 # Exit if the Docker daemon isn't running
 if ! docker info &>/dev/null; then
